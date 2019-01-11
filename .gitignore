@@ -1,0 +1,6 @@
+*.zip
+main
+*.cmake
+CMakeCache.txt
+.git/**
+CMakeFiles/**
